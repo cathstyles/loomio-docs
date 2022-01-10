@@ -61,3 +61,5 @@ Loomio offers a range of other poll tools:
 - **Score poll**: to ask people to express the strength of their preference for each option, on a numerical scale
 - **Dot vote**: to ask people to express the strength of their preferences, with a constraint—a fixed number of ‘dots’ to allocate–you can put all your dots in one place or spread them out
 - **Ranked choice**: to rank a subset of options—useful for elections when there are many candidates and few seats
+
+The best way to learn what to use when is to have a go. Use your own Loomio group or [create a demo group](https://decisions.oric.gov.au/try). 
