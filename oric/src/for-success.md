@@ -37,6 +37,8 @@ Importantly, you can add outsiders to a subgroup—such as a lawyer or accountan
 
 You could even set up **a subgroup for all your members**—so as directors you can share information and engage with the broader membership. 
 
+With all that in mind, a cautionary note: while you are still new to Loomio, we encourage you to focus on your parent group, and getting all board members to engage in open, constructive idea-sharing and responding. Remember that there are other features that might work better than a subgroup for organising your work, such as tags (for grouping threads related to a particular topic, so you can easily find them all again later) and private threads (for private discussions).
+
 ---
 
 ## When should we invite outsiders in?
