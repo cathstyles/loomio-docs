@@ -14,8 +14,6 @@ A Loomio group is a safe place for your organisation to meet, discuss and make d
 
 ![](Groups.png#width-50)
 
-**Group home**
-
 Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help members participate.
 
 **Subgroups**
